@@ -7,6 +7,6 @@ int main()
     int c=3;
     printf("hello world%d\r\n",a);
     int d=4;
-    printf("hello world\r\n");
+    printf("hello world%d\r\n",b);
 
 }
