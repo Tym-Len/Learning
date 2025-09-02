@@ -7,5 +7,6 @@ int main()
     int c=3;
     int d=4;
     printf("%d %d %d\r\n",a,b,c);
+    printf("%d\r\n",c);
 
 }

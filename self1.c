@@ -7,6 +7,7 @@ int main()
     printf("hello world%d\r\n",a);
     int j=0;
     int lll;
+    int k;
     printf("hello world%d\r\n",b);
 
 }
