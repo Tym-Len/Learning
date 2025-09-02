@@ -6,5 +6,7 @@ int main()
     int b=2;
     int c=3;
     printf("hello world%d\r\n",a);
+    int d=4;
+    printf("hello world\r\n");
 
 }
