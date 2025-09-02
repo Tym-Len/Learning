@@ -7,7 +7,7 @@ int main()
     int c=3;
     printf("hello world%d\r\n",a);
     int d=4;
-    int j;
+    int j=0;
     printf("hello world%d\r\n",b);
 
 }
