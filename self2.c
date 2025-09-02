@@ -6,6 +6,7 @@ int main()
     int b=2;
     int c=3;
     int d=4;
+    int ddd;
     printf("%d %d %d\r\n",a,b,c);
     printf("%d\r\n",c);
 
