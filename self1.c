@@ -8,6 +8,7 @@ int main()
     printf("hello world%d\r\n",a);
     int d=4;
     int j=0;
+    int lll;
     printf("hello world%d\r\n",b);
 
 }
