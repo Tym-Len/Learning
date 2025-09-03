@@ -8,6 +8,7 @@ int main()
     int j=0;
     int lll;
     int k;
+    int llls;
     printf("hello world%d\r\n",b);
 
 }
